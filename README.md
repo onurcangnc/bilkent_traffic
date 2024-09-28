@@ -1,6 +1,7 @@
 # Bilkent Trafficæß
 
 ![Bilkent Traffic Gif](./assets/example_gif.gif)
+![YouTube](https://www.youtube.com/watch?v=iOVfomqV2Dw)
 
 `bilkent_traffic` is a command-line tool designed to simplify reporting traffic violations at Bilkent University by sending an email through Bilkent's email system. The script allows users to select default or custom templates for reporting.
 
