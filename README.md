@@ -1,7 +1,4 @@
-# Bilkent Traffic
-
-![Bilkent Traffic Logo](./assets/example_run.png)
-
+# Bilkent Trafficæß
 
 ![Bilkent Traffic Gif](./assets/example_gif.gif)
 
