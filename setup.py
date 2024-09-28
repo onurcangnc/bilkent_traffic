@@ -7,10 +7,10 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='bilkent_traffic',
-    version='0.6',  # Increment version appropriately
+    version='0.7.0',
     description='A Python package for sending traffic violation reports via Bilkent email',
-    long_description=long_description,  # Define the long_description variable
-    long_description_content_type='text/markdown',  # Ensure the format is markdown
+    long_description=long_description,  
+    long_description_content_type='text/markdown',
     py_modules=['bilkent_traffic'],
     install_requires=[
         'pyfiglet',
@@ -22,6 +22,6 @@ setup(
     ''',
     author="Onurcan Genç",
     author_email="onurcan.genc@ug.bilkent.edu.tr",
-    url="https://github.com/yourusername/bilkent_traffic",  # Update with your GitHub repo URL
+    url="https://github.com/onurcangnc/bilkent_traffic",
     license='MIT',
 )
