@@ -1,5 +1,7 @@
 # Bilkent Traffic
 
+![Bilkent Traffic Logo](./assets/example_run.png)
+
 `bilkent_traffic` is a command-line tool designed to simplify reporting traffic violations at Bilkent University by sending an email through Bilkent's email system. The script allows users to select default or custom templates for reporting.
 
 ## Features
@@ -70,3 +72,4 @@ pip install -r requirements.txt
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
+
