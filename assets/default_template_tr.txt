@@ -1,0 +1,12 @@
+Sayın Trafik Ofisi,
+
+Bir araçla ilgili bir sorun bildirmek istiyorum.
+
+Araç Modeli: {car_model}
+Araç Rengi: {car_color}
+Lokasyon: {location}
+Sebep: {reason}
+Olay Zamanı: {incident_time}
+
+Saygılarımla,
+{name} {surname}

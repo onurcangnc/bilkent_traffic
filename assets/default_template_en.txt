@@ -1,0 +1,12 @@
+Dear Traffic Office,
+
+I would like to report an issue regarding a vehicle.
+
+Car Model: {car_model}
+Car Color: {car_color}
+Location: {location}
+Reason: {reason}
+Time: {incident_time}
+
+Sincerely,
+{name} {surname}
