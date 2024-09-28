@@ -96,9 +96,9 @@ def main():
 
         # Load default template based on language selection
         if language_choice == "en":
-            message = load_template("default_template_en.txt", data)
+            message = load_template("./assets/default_template_en.txt", data)
         elif language_choice == "tr":
-            message = load_template("default_template_tr.txt", data)
+            message = load_template("./assets/default_template_tr.txt", data)
 
     elif template_choice == "custom":
         template_file = input("Enter the path to your custom template file: ")

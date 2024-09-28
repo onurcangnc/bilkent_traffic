@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='bilkent_traffic',
-    version='0.5',
+    version='0.6',
     py_modules=['bilkent_traffic'],
     install_requires=[
         'pyfiglet',
