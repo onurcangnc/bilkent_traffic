@@ -4,6 +4,7 @@ I would like to report an issue regarding a vehicle.
 
 Car Model: {car_model}
 Car Color: {car_color}
+Plate Number: {plate_number}
 Location: {location}
 Reason: {reason}
 Time: {incident_time}
