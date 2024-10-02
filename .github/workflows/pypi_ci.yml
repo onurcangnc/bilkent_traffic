@@ -31,12 +31,6 @@ jobs:
         git config --local user.name "onurcangnc"
         git config --local user.email "onurcan.genc@ug.bilkent.edu.tr"
 
-    - name: Bump version
-      run: |
-        bump2version patch  # or 'minor' or 'major'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - name: Build package
       run: |
         rm -rf dist/
