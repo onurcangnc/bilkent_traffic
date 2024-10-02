@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='bilkent_traffic',
-    version='0.7.0',
+    version='0.7.2',
     description='A Python package for sending traffic violation reports via Bilkent email',
     long_description=long_description,  
     long_description_content_type='text/markdown',
