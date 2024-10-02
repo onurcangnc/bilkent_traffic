@@ -112,7 +112,7 @@ def main():
         print("Failed to load the template. Exiting.")
         return
 
-    receiver_email = "onurcan.genc@ug.bilkent.edu.tr"
+    receiver_email = "trafik@bilkent.edu.tr"
     send_email(sender_email, receiver_email, password, subject, message)
 
 if __name__ == "__main__":
